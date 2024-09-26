@@ -373,4 +373,34 @@ h3{
   border-radius: 50%;
   margin-top: 15px;
 }
+@media (min-width:1200px){
+  .pokedex{
+    width: 40%;
+  }
+}
+@media (max-width:1000px){
+  .pokedex{
+    width: 50%;
+  }
+}
+@media (max-width:900px){
+  .pokedex{
+    width: 60%;
+  }
+}
+@media (max-width:800px){
+  .pokedex{
+    width: 70%;
+  }
+}
+@media (max-width:700px){
+  .pokedex{
+    width: 80%;
+  }
+}
+@media (max-width:600px){
+  .pokedex{
+    width: 90%;
+  }
+}
 </style>
